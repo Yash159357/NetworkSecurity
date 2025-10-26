@@ -1,0 +1,7 @@
+python-dotenv
+pymongo
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
