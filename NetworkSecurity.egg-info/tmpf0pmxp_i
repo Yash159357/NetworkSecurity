@@ -1,0 +1,27 @@
+Metadata-Version: 2.4
+Name: NetworkSecurity
+Version: 0.0.1
+Summary: Network Security Project
+Home-page: https://github.com/Yash159357/NetworkSecurity
+Author: Yash
+Author-email: yashmalihan3@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: python-dotenv
+Requires-Dist: pymongo
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
