@@ -17,7 +17,7 @@ Requires-Dist: scikit-learn
 Requires-Dist: matplotlib
 Requires-Dist: seaborn
 Requires-Dist: pymongo[srv]==3.12
-Requires-Dist: certifi
+Requires-Dist: pymongo
 Dynamic: author
 Dynamic: author-email
 Dynamic: classifier

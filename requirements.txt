@@ -1,9 +1,9 @@
 python-dotenv
-pymongo
 numpy
 pandas
 scikit-learn
 matplotlib
 seaborn
-
+pymongo[srv]==3.12
+certifi
 -e .
