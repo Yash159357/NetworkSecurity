@@ -6,4 +6,6 @@ matplotlib
 seaborn
 pymongo[srv]==3.12
 certifi
+scipy
+dill
 -e .
